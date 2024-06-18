@@ -4,5 +4,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 QA Engineer
 -----------
 
-*   🌍  I'm based in Samara
+*   🌍  I'm based in Russia, Samara
 *   ✉️  You can contact me at [serejadawydow@yandex.ru](mailto:serejadawydow@yandex.ru) or [Telegram](https://t.me/theonesergdav)
