@@ -8,4 +8,4 @@ I'm a junior software quality specialist with experience working in the banking 
 You can check my CV [here](https://cv.hexlet.io/ru/resumes/4015)
 
 *   🌍  I'm based in Russia, Samara
-*   ✉️  You can contact me at [serejadawydow@yandex.ru](mailto:serejadawydow@yandex.ru )
+*   ✉️  You can contact me at [serejadawydow@yandex.ru](mailto:serejadawydow@yandex.ru ) or [Telegram](https://t.me/theonesergdav)
